@@ -3,7 +3,10 @@
 <body>
 
 <?php
-echo "My first PHP script!";
+echo "Project Done by :-";
+echo "Akul Maurya";
+echo "Sarvesh Agrawal";
+echo "Swapnil Lader";
 ?>
 
 </body>
